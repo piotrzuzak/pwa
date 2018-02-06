@@ -1,7 +1,7 @@
 {
     "short_name": "Morri Logbook",
     "name": "Morrisons DigitalLogbook Example",
-    "start_url": "/pwa/",
+    "start_url": "/",
     "theme_color": "#f48c5b",
     "background_color": "#ffffff",
     "display": "standalone",
