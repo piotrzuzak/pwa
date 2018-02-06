@@ -7,7 +7,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "icons": [{
-        "src": "/assets/icons/morrisons.png",
+        "src": "/pwa/assets/icons/morrisons.png",
         "sizes": "256x256",
         "type": "image/png"
     }]
