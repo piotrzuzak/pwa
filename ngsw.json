@@ -47,7 +47,13 @@
         "/pwa/assets/fonts/_morrisonsagenda-semi_bold_webtt-webfont.woff",
         "/pwa/assets/img/ducky.jpg",
         "/pwa/assets/img/favicon.png",
-        "/pwa/assets/img/logo.png"
+        "/pwa/assets/img/logo.png",
+        "/pwa/assets/img/app_icon/icon-142x142.png",
+        "/pwa/assets/img/app_icon/icon-168x168.png",
+        "/pwa/assets/img/app_icon/icon-192x192.png",
+        "/pwa/assets/img/app_icon/icon-48x48.png",
+        "/pwa/assets/img/app_icon/icon-72x72.png",
+        "/pwa/assets/img/app_icon/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -86,6 +92,12 @@
     "/pwa/assets/fonts/_morrisonsagenda-semi_bold_webtt-webfont.woff": "1235e0057af8b8919339ccd1c7e36948732cad7a",
     "/pwa/assets/img/ducky.jpg": "d8a4a341664bfa3b99efb2a07110d2eec5ac4e0f",
     "/pwa/assets/img/favicon.png": "b0e1a896200b1d84bc8067f7c0d543d94d627157",
-    "/pwa/assets/img/logo.png": "88444864184e5219b35dd578adf141777b0e0451"
+    "/pwa/assets/img/logo.png": "88444864184e5219b35dd578adf141777b0e0451",
+    "/pwa/assets/img/app_icon/icon-142x142.png": "1c06b013a99bd93eb295916fbfae3f80f0913acc",
+    "/pwa/assets/img/app_icon/icon-168x168.png": "f6ebe894f52b333ff16292cb0a353507a1b950ce",
+    "/pwa/assets/img/app_icon/icon-192x192.png": "e1dc3b2fa16c949496410f2df90487dc3b342232",
+    "/pwa/assets/img/app_icon/icon-48x48.png": "41f3b4f490fc01eefdf0bb205b582a77cc6a0579",
+    "/pwa/assets/img/app_icon/icon-72x72.png": "3655ca036298683c1ca810b203227d948cb929ec",
+    "/pwa/assets/img/app_icon/icon-96x96.png": "58b042e509f8d52e6610a4ccc9c9b94720bf60ae"
   }
 }
