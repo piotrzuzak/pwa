@@ -7,7 +7,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "icons": [{
-        "src": "pwa/assets/icons/favicon.png",
+        "src": "assets/icons/favicon.png",
         "sizes": "256x256",
         "type": "image/png"
     }]
