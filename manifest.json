@@ -6,7 +6,8 @@
 	"background_color": "#ffffff",
 	"display": "standalone",
 	"orientation": "portrait",
-	"icons": [{
+	"icons": [
+		{
 			"src": "assets/img/icons/icon-48x48.png",
 			"sizes": "48x48",
 			"type": "image/png"
