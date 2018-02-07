@@ -10,10 +10,10 @@
         "/pwa/favicon.ico",
         "/pwa/index.html",
         "/pwa/0.4257aebb764b6fcef8de.chunk.js",
-        "/pwa/1.f9e868ab305b1cd2de81.chunk.js",
+        "/pwa/1.f17eacc64bc40ddbcbf8.chunk.js",
         "/pwa/2.7d96476d1965965e249d.chunk.js",
-        "/pwa/inline.451052b2c0b67384c000.bundle.js",
-        "/pwa/main.5e9918b864e23aaefe89.bundle.js",
+        "/pwa/inline.6e3717cd7b2c3890d317.bundle.js",
+        "/pwa/main.73cd1d1594cfd029b672.bundle.js",
         "/pwa/polyfills.a7098b48bd3a3816e920.bundle.js",
         "/pwa/styles.1ff42e5fc159800f231d.bundle.css"
       ],
@@ -73,7 +73,7 @@
     {
       "name": "api-department",
       "patterns": [
-        "https:\\/\\/search-iot-sensors-rczsoo6jftvvxdl4b2jf2dwrc4\\.eu-west-1\\.es\\.amazonaws\\.com\\/pwa_departments_idx\\/department\\/.*"
+        "https:\\/\\/search-iot-sensors-rczsoo6jftvvxdl4b2jf2dwrc4\\.eu-west-1\\.es\\.amazonaws\\.com\\/pwa2_departments_idx\\/department\\/.*"
       ],
       "strategy": "performance",
       "maxSize": 100,
@@ -83,7 +83,7 @@
     {
       "name": "api-activity",
       "patterns": [
-        "https:\\/\\/search-iot-sensors-rczsoo6jftvvxdl4b2jf2dwrc4\\.eu-west-1\\.es\\.amazonaws\\.com\\/pwa_departments_idx\\/activity\\/.*"
+        "https:\\/\\/search-iot-sensors-rczsoo6jftvvxdl4b2jf2dwrc4\\.eu-west-1\\.es\\.amazonaws\\.com\\/pwa2_departments_idx\\/activity\\/.*"
       ],
       "strategy": "freshness",
       "maxSize": 100,
@@ -94,7 +94,7 @@
     {
       "name": "api-task",
       "patterns": [
-        "https:\\/\\/search-iot-sensors-rczsoo6jftvvxdl4b2jf2dwrc4\\.eu-west-1\\.es\\.amazonaws\\.com\\/pwa_departments_idx\\/task\\/.*"
+        "https:\\/\\/search-iot-sensors-rczsoo6jftvvxdl4b2jf2dwrc4\\.eu-west-1\\.es\\.amazonaws\\.com\\/pwa2_departments_idx\\/task\\/.*"
       ],
       "strategy": "freshness",
       "maxSize": 100,
@@ -106,13 +106,13 @@
   "hashTable": {
     "/pwa/0.4257aebb764b6fcef8de.chunk.js": "fb7e91656cb4bc4f151821e24aaccb46659a1dcc",
     "/pwa/MaterialIcons-Regular.012cf6a10129e2275d79.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
-    "/pwa/1.f9e868ab305b1cd2de81.chunk.js": "a7e4bf6ff6aefee22d774a33f8fb52f46bb13034",
+    "/pwa/1.f17eacc64bc40ddbcbf8.chunk.js": "f627677ffb1cb843ee3289d3d2f4c95bbe92659c",
     "/pwa/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
     "/pwa/2.7d96476d1965965e249d.chunk.js": "602b57fada7ce960fa7cd56680d370c8e7688da8",
     "/pwa/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
-    "/pwa/inline.451052b2c0b67384c000.bundle.js": "c06b793dffa2151c3a9b3b8f9da15483084fca74",
+    "/pwa/inline.6e3717cd7b2c3890d317.bundle.js": "786e76f6b856de06dd38ed17ce81f795cf7815af",
     "/pwa/MaterialIcons-Regular.e79bfd88537def476913.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
-    "/pwa/main.5e9918b864e23aaefe89.bundle.js": "cfb71016fd2bf79e57520b7f65d2a169c02aeaf5",
+    "/pwa/main.73cd1d1594cfd029b672.bundle.js": "ff302ca0bfebea7ce19e435254de31b4466db2a5",
     "/pwa/Roboto-Bold.ee7b96fa85d8fdb8c126.ttf": "0ce37ced9c5fcac9bdc452a432c1258870ba4677",
     "/pwa/polyfills.a7098b48bd3a3816e920.bundle.js": "adc4a4a64da7d73ed2e92364406c6a101847afac",
     "/pwa/Roboto-Regular.3e1af3ef546b9e6ecef9.ttf": "dd1b1db13ff1f72138c134c62f38fef83749f36a",
@@ -120,7 +120,7 @@
     "/pwa/_morrisonsagenda-light_webtt-webfont.7ac6fb4b4d560b0f5b86.ttf": "45c5259cab884a3cadf9159e38230d66ec7b3cdd",
     "/pwa/favicon.ico": "76b3bb81632c4672cb25b554faf119c7ddddc78f",
     "/pwa/_morrisonsagenda-light_webtt-webfont.94439a43e35e3d007d04.woff": "434da4bc382ccfad158e4594f2e32a77bac62930",
-    "/pwa/index.html": "b8719ac408ca6a53890549f1769a16118805955b",
+    "/pwa/index.html": "876d7e6fbab82cf9af0a5e1573e6fa5d5954aade",
     "/pwa/_morrisonsagenda-semi_bold_webtt-webfont.1731bba408a0f32b2590.woff": "1235e0057af8b8919339ccd1c7e36948732cad7a",
     "/pwa/_morrisonsagenda-semi_bold_webtt-webfont.9e1f92d5e4932c762fcb.ttf": "315367d955f3fa5279cbf18badbba3a6f66db4ac",
     "/pwa/assets/css/font-awesome.css": "a02674d823c7b577d38c3cdb91953993b6e4b3a0",
